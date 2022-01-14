@@ -1,6 +1,5 @@
 # Polyamine-Haematococcus
-
-
+Data from the manuscript "Polyamine metabolism in Haematococcus lacustris and other Chlamydomonadales." Lucila Ortíz-Castellanos, María Andrea Evelyn González-Ibarra, Beatriz Cordero Esquivel, José Luis Castro-Guillén and Laura Valdés-Santiago.
 
 The following files are available:
 * Sequences_used_for_sequence_polyamines.txt: The sequences are organized by the different tables of the article.
